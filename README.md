@@ -47,7 +47,7 @@ To meet this standard, we developed an **AI-powered freshness inspection system*
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tiknaavenger/FreshHarvest-Fruit-Classifier.git
+   git clone https://github.com/MindMatrixPro/FreshHarvest-Fruit-Classifier.git
    cd FreshHarvest-Fruit-Classifier
    ```
 
